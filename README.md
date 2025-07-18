@@ -29,8 +29,9 @@ The system runs in a text-based window (command line). It shows you a menu to ch
 * Go to terminal and write:
  ```
 git clone [https://github.com/SafaSadig-dev/BankProject.git]
-here users , password and permissons:
 ```
+
+here users , password and permissons:
 
 ![main menu](https://github.com/SafaSadig-dev/BankProject/blob/master/2.png)
 
