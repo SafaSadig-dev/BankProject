@@ -16,5 +16,11 @@ This is a simple Bank Management System made with C++. Its main goal is to help 
 The system runs in a text-based window (command line). It shows you a menu to choose what you want to do, then guides you through the process.
 
 ![main menu](https://github.com/SafaSadig-dev/BankProject/blob/master/1.png)
-## Contributors
 
+here users , password and permissons:
+
+![main menu](https://github.com/SafaSadig-dev/BankProject/blob/master/2.png)
+
+## Contributors
+* (Safa Mustafa Mohammed Sadig) [https://github.com/SafaSadig-dev]
+* ()[]
