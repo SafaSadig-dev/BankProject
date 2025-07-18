@@ -1,7 +1,7 @@
 # Bank Management System
 
 ## Project Goal
-This is a simple Bank Management System made with C++. Its main goal is to help users manage customer details and bank transactions easily using a clear menu.
+This is a simple Bank Management System made with C++ using files. Its main goal is to help users manage customer details and bank transactions easily using a clear menu.
 
 ## Key Features
 * **Customer Management**: Add, delete, update, view, and search for customer information.
