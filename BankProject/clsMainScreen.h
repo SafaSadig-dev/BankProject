@@ -13,6 +13,7 @@
 #include "clsManageUsersScreen .h"
 #include "clsLoginRegisterScreen.h"
 #include "Global.h"
+#include "clsCurrencyExchangMainScreen.h"
 
 
 using namespace std;
@@ -114,7 +115,8 @@ private:
         exit(0);
     }
     static void _ShowCurrencyMainScreen() {
-        cout << "\nCurrency Main Screen Will be here...\n";
+        //cout << "\nCurrency Main Screen Will be here...\n";
+        clsCurrencyExchangMainScreen::ShowCurrenciesMenue();
     }
 
     static void
