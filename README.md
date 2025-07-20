@@ -13,7 +13,8 @@ This is a simple Bank Management System made with C++ using files. Its main goal
 * **Login Register**: Keep a record of user logins and logouts.
   
 * **Permissions**: Set what each user can do in the system.
-
+  
+* **Currency Exchange**: List all currencies - Find a specific currency - Update currency rates - Use a currency calculator.
 
   
 ## How It Works
@@ -37,4 +38,4 @@ here users , password and permissons:
 
 ## Contributors
 * (Safa Mustafa Mohammed Sadig)[https://github.com/SafaSadig-dev]
-* ()[]
+* (Ghalia Abdullatif)[https://github.com/Ghalia-Abdullatif]
