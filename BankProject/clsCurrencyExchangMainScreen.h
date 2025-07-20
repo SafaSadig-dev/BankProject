@@ -3,7 +3,7 @@
 #include <iomanip>
 #include "clsInputValidate.h"
 #include "clsCurrenciesListScreen.h"
-//#include "clsFindCurrencyScreen.h"
+#include "clsFindCurrencyScreen.h"
 //#include "clsUpdateCurrencyRate.h"
 //#include "clsCurrencyCalculatorScreen.h"
 
@@ -42,8 +42,7 @@ private:
         //clsCurrencyCalculatorScreen::ShowCurrencyCalculatorScreen();
     }
     static void _ShowFindCurrencyScreen() {
-         cout << "Show Find Currency Screen will be here..\n";
-        //clsFindCurrencyScreen::ShowFindCurrencyScreen();
+        clsFindCurrencyScreen::ShowFindCurrencyScreen();
     }
     static void _ShowUpdateCurrencyScreen() {
          cout << "Show Update Currency Screen will be here..\n";
